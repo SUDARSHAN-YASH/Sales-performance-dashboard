@@ -1,7 +1,7 @@
 # Sales-performance-dashboard
 Excel sales dashboard project
 # Sales Performance Dashboard (Excel)
-
+![Dashboard](Dashboard_full.png)
 ## Project Overview
 This project presents an interactive Sales Performance Dashboard built using Microsoft Excel. It analyzes e-commerce sales data to provide insights into revenue trends, product performance, and customer behavior.
 
